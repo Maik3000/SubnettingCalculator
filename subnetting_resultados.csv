@@ -1,0 +1,2 @@
+IP,Prefijo,Dirección de Red,Máscara,Broadcast,Primera IP,Última IP,Hosts Disponibles
+192.168.1.0,24,192.168.1.0,255.255.255.0,192.168.1.255,192.168.1.1,192.168.1.254,254
